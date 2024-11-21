@@ -12,10 +12,12 @@ All tested datasets can be found at this link[https://pan.baidu.com/s/1J_QvUobTm
 If you find this code useful for your work or use it in your project, please consider citing:
 
 **Synthetic&Real**
+
 ![image](https://github.com/user-attachments/assets/d2008d8e-736c-4f63-bde2-81e61868c098)
 
 **Module effective analysis**
-![image](https://github.com/user-attachments/assets/a74afb42-9845-4138-9642-81c62e3fbfd9)
+
+![image](https://github.com/user-attachments/assets/ce878661-8503-41e5-80c0-bd419caa58ee)
 
 ## Citation
 If you find this code useful for your work or use it in your project, please consider citing:
